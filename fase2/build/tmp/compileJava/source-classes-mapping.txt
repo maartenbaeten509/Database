@@ -1,0 +1,36 @@
+Classes/Auteur.java
+ Classes.Auteur
+controller/BeheerKlantenController.java
+ controller.BeheerKlantenController
+Classes/CSARepoImpl.java
+ Classes.CSARepoImpl
+Classes/Levering.java
+ Classes.Levering
+controller/BeheerInschrijvingenController.java
+ controller.BeheerInschrijvingenController
+Classes/Klant.java
+ Classes.Klant
+ProjectMainController.java
+ ProjectMainController
+Classes/Product.java
+ Classes.Product
+Classes/Leverancier.java
+ Classes.Leverancier
+Classes/Pakket.java
+ Classes.Pakket
+Main.java
+ Main
+Classes/CSARepo.java
+ Classes.CSARepo
+Classes/Weeksamenstelling.java
+ Classes.Weeksamenstelling
+ProjectMain.java
+ ProjectMain
+controller/BeheerProductenController.java
+ controller.BeheerProductenController
+controller/BeheerTipsController.java
+ controller.BeheerTipsController
+Classes/Aanbod.java
+ Classes.Aanbod
+controller/BeheerBoerderijenController.java
+ controller.BeheerBoerderijenController
